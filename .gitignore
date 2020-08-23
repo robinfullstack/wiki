@@ -1,0 +1,4 @@
+# Ignorar el contenido de las carpetas tmp y uploads
+tmp/
+uploads/
+.htaccess
