@@ -1,0 +1,2 @@
+# wiki
+Create your content
