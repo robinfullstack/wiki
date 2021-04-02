@@ -7,4 +7,5 @@ Following list out some features, to the realization of greats projects:
 3. Form setup.
 4. Upload images zone.
 5. Consulting, visualization and edition forms
-6. Register zone, which will able be to add contain 
+6. Register zone, which will able be to add contents, to do used of extension TinyMCE.
+7. Developed in programming language PHP, with MVC.
