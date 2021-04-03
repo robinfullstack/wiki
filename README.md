@@ -9,3 +9,5 @@ Following list out some features, to the realization of greats projects:
 5. Consulting, visualization and edition forms
 6. Register zone, which will able be to add contents, to do used of extension TinyMCE.
 7. Developed in programming language PHP, with MVC.
+8. Responsive Design.
+
