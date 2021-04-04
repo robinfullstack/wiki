@@ -13,3 +13,8 @@ Following list out some features, to the realization of greats projects:
 
 
 ![Screenshot Wiki Git](https://github.com/robinfullstack/wiki/blob/5c548c6dc78d3f0ac218550003bf4973da6823d1/public/img/Screenshot-WikiGit.png)
+
+The installation process is very simple:
+* Install database in your environment local or public.
+* it register as it show following.
+
